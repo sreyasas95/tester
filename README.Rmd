@@ -1,7 +1,7 @@
 ---
 output: github_document
 ---
-[![Travis build Status](https://travis-ci.com/sreyasas95/tester.svg?branch=master)](https://travis-ci.com/sreyasas95/tester)
+[![Build Status](https://app.travis-ci.com/sreyasas95/tester.svg?token=UAqeBDcC8hJHWexx9zvZ&branch=master)](https://app.travis-ci.com/sreyasas95/tester)
 
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
