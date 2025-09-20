@@ -1,3 +1,11 @@
 language: r
-sudo: false
+
 cache: packages
+
+r:
+  - oldrel    # previous R release
+  - release   # current stable R release
+  - devel     # development version of R
+
+warnings_are_errors: false
+
