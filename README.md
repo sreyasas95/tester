@@ -8,6 +8,11 @@ Status](https://app.travis-ci.com/sreyasas95/tester.svg?token=UAqeBDcC8hJHWexx9z
 
 <!-- badges: start -->
 
+[![Build
+Status](https://app.travis-ci.com/sreyasas95/tester.svg?token=UAqeBDcC8hJHWexx9zvZ&branch=master)](https://app.travis-ci.com/sreyasas95/tester)
+
+[![Codecov test
+coverage](https://codecov.io/gh/sreyasas95/tester/graph/badge.svg)](https://app.codecov.io/gh/sreyasas95/tester)
 <!-- badges: end -->
 
 The goal of tester is to provides functionality for my package.this is
